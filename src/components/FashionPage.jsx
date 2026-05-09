@@ -62,7 +62,7 @@ const FashionPage = () => {
             {/* TITLE */}
             <h1 className="mt-4 text-4xl md:text-6xl font-light leading-tight tracking-wide">
               Premium{" "}
-              <span className="text-zinc-400">Luxury Watches</span>{" "}
+              <span className="text-zinc-400">Luxury Purfume</span>{" "}
               Collection
             </h1>
 

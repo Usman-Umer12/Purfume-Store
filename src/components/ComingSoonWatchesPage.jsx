@@ -45,7 +45,7 @@ const ComingSoonWatchesPage = () => {
               New <span className="text-zinc-400">Arrivals</span>
             </h2>
             <p className="text-zinc-500 mt-3 tracking-[0.3em] uppercase text-xs">
-              Coming Soon Luxury Watches
+              Coming Soon Luxury Purfumes
             </p>
           </div>
 

@@ -56,7 +56,7 @@ const TestimonialsPage = () => {
         {/* HEADER */}
         <div className="text-center mb-14">
           <h2 className="text-3xl md:text-5xl font-light tracking-[0.35em] uppercase">
-            Watch Journal
+            Purfume Journal
           </h2>
           <p className="text-zinc-500 mt-4 text-sm tracking-[0.25em]">
             Stories of craftsmanship & timeless design
