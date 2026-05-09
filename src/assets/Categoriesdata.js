@@ -106,7 +106,6 @@ const watchesData = {
   "patek-philippe": [
     { id: 17, name: "Nautilus 5711", image: P1, price: "₹120,000", desc: "Iconic luxury sports watch.", link: "/brands/patek-philippe/watches/3001" },
     { id: 18, name: "Aquanaut 5167", image: P2, price: "₹30,000", desc: "Sporty modern Patek piece.", link: "/brands/patek-philippe/watches/3002" },
-    { id: 19, name: "Complications Annual Calendar", image: P3, price: "₹48,000", desc: "Refined calendar complication.", link: "/brands/patek-philippe/watches/3003" },
     { id: 20, name: "Calatrava 5227", image:P4, price: "₹35,000", desc: "Elegant dress watch with lacquer dial.", link: "/brands/patek-philippe/watches/3004" },
     { id: 21, name: "Grand Complication Perpetual", image: P5, price: "₹180,000", desc: "High watchmaking masterpiece.", link: "/brands/patek-philippe/watches/3005" },
     { id: 22, name: "Complications Chronograph", image: P6, price: "₹90,000", desc: "Patek chronograph with refined finishing.", link: "/brands/patek-philippe/watches/3006" },
@@ -141,7 +140,6 @@ const watchesData = {
   breitling: [
     { id: 41, name: "Navitimer B01 Chronograph", image: B1, price: "₹8,500", desc: "Pilot's chronograph with slide rule.", link: "/brands/breitling/watches/6001" },
     { id: 42, name: "Superocean Heritage", image:B2, price: "₹4,400", desc: "Heritage diver with vintage looks.", link: "/brands/breitling/watches/6002" },
-    { id: 43, name: "Avenger Automatic", image: B3, price: "₹3,700", desc: "Rugged military-inspired tool watch.", link: "/brands/breitling/watches/6003" },
     { id: 44, name: "Chronomat B01 42", image: B4, price: "₹7,800", desc: "Versatile chronograph for daily use.", link: "/brands/breitling/watches/6004" },
     { id: 45, name: "Emergency", image: B5, price: "₹16,000", desc: "Tool watch with emergency transmitter.", link: "/brands/breitling/watches/6005" },
     { id: 46, name: "Premier B01", image:B6, price: "₹6,200", desc: "Elegant chronograph with refined finish.", link: "/brands/breitling/watches/6006" },
