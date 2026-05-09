@@ -140,7 +140,6 @@ const watchesData = {
   breitling: [
     { id: 41, name: "Navitimer B01 Chronograph", image: B1, price: "₹8,500", desc: "Pilot's chronograph with slide rule.", link: "/brands/breitling/watches/6001" },
     { id: 42, name: "Superocean Heritage", image:B2, price: "₹4,400", desc: "Heritage diver with vintage looks.", link: "/brands/breitling/watches/6002" },
-    { id: 44, name: "Chronomat B01 42", image: B4, price: "₹7,800", desc: "Versatile chronograph for daily use.", link: "/brands/breitling/watches/6004" },
     { id: 45, name: "Emergency", image: B5, price: "₹16,000", desc: "Tool watch with emergency transmitter.", link: "/brands/breitling/watches/6005" },
     { id: 46, name: "Premier B01", image:B6, price: "₹6,200", desc: "Elegant chronograph with refined finish.", link: "/brands/breitling/watches/6006" },
     { id: 47, name: "Superocean Automatic 44", image: B7, price: "₹4,800", desc: "Large, capable diver for serious use.", link: "/brands/breitling/watches/6007" },
